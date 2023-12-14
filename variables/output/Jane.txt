@@ -1,0 +1,13 @@
+
+Subject: Exclusive Webinar Alert: Unleashing the Power of Jinja Templating Engine for University Students
+
+Dear Jane,
+
+I hope this message finds you well. We are excited to bring to your attention an exclusive webinar that promises to enhance your university experience and skill set. Our upcoming event, "Mastering Jinja: A Webinar for University Students," is designed to shed light on the powerful Jinja templating engine and its applications in the world of programming and web development.
+
+Event Details:
+
+Title: Mastering Jinja: A Webinar for University Students
+Date: 2020-01-01
+Time: 12:00:00
+Platform: Zoom
