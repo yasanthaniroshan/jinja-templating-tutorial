@@ -1,0 +1,33 @@
+=========================================================
+                    Jinja Bookshop
+                        No 01,
+                    Peterson Road,
+                        US
+                    Phone: +13929209333
+                   Email: jinja@sample.com
+                Website: samplebookshop.com
+=========================================================
+
+Bill To:
+{{customer_name}}
+
+=========================================================
+|    Description     |   Quantity   |   Unit Price   |   Total   |
+=========================================================
+{% for item in items %}
+| {{item.title}}    |      {{item.quantity}}   |    {{item.price}}      | {{item.total}} |
+{% endfor %}
+
+=========================================================
+|                                      Subtotal | {{subtotal}}  |
+|                                         Tax   | {{0.2*subtotal}}        |
+|                                   Grand Total   | {{1.2*subtotal}}|
+=========================================================
+
+Payment Information: {% if payement_method ==  "Cash" %} Cash {%  else %} Credit Card {% endif %}
+
+
+Thank you for shopping with us!
+Jinja Bookshop appreciates your business.
+
+=========================================================

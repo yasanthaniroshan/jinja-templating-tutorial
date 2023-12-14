@@ -1,0 +1,37 @@
+=========================================================
+                    Jinja Bookshop
+                        No 01,
+                    Peterson Road,
+                        US
+                    Phone: +13929209333
+                   Email: jinja@sample.com
+                Website: samplebookshop.com
+=========================================================
+
+Bill To:
+Jane
+
+=========================================================
+|    Description     |   Quantity   |   Unit Price   |   Total   |
+=========================================================
+
+| The Great Gatsby    |      8   |    10      | 80 |
+
+| The Bell Jar    |      2   |    15      | 30 |
+
+| The Handmaid's Tale    |      7   |    20      | 140 |
+
+
+=========================================================
+|                                      Subtotal | 250  |
+|                                         Tax   | 50.0        |
+|                                   Grand Total   | 300.0|
+=========================================================
+
+Payment Information:  Credit Card 
+
+
+Thank you for shopping with us!
+Jinja Bookshop appreciates your business.
+
+=========================================================
